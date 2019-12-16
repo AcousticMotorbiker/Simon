@@ -1,0 +1,29 @@
+{
+  "name": "simon",
+  "version": "0.9.0",
+  "description": "Simon game from Udemy course , my solution",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AcousticMotorbiker/Simon.git"
+  },
+  "keywords": [
+    "Test",
+    "example",
+    "do",
+    "not",
+    "try",
+    "this",
+    "at",
+    "home"
+  ],
+  "author": "Gerhard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcousticMotorbiker/Simon/issues"
+  },
+  "homepage": "https://github.com/AcousticMotorbiker/Simon#readme"
+}
